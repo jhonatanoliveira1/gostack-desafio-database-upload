@@ -12,7 +12,7 @@ Challenge applied in the GoStack Bootcamp
 
 Clone repository
 ```bash
-https://github.com/jhonatanoliveira1/gostack-desafio-database-upload.git
+git clone https://github.com/jhonatanoliveira1/gostack-desafio-database-upload.git
 ```
 Install node module folder
 ```bash
